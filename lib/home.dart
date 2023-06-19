@@ -10,7 +10,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   final WebViewController _controller = WebViewController();
-  final String url = 'https://www.google.com.tr/';
+  final String url = 'https://flutter.dev/';
   @override
   void initState() {
     super.initState();
